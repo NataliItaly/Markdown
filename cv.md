@@ -37,11 +37,12 @@ ___
 ___
 ### Education
 
-* 1995-2000 Yaroslav Mudryi National Law University, Kharkiv, Ukraine
+* Yaroslav Mudryi National Law University, Kharkiv, Ukraine
 * HTML for JavaScript Developers by Alexander Lushchenko  [certificate](https://itgid.info/certificate/view?Certificate%5Buid%5D=h276nj5hav)
 * JavaScript 2.0 by Alexander Lushchenko  [certificate](https://itgid.info/certificate/view?Certificate%5Buid%5D=cmuweqve8j)
 * Arrays Methods by Alexander Lushchenko  [certificate](https://itgid.info/certificate/view?Certificate%5Buid%5D=fqhtz7jzs3) 
 * JS Functions by Alexander Lushchenko  [certificate](https://itgid.info/certificate/view?Certificate%5Buid%5D=6kmfcp4bqz)
+* JS/FE PRE-SCHOOL 2022 (JAVASCRIPT) [certificate](https://app.rs.school/certificate/7bsu0gyv)
 * JavaScript - The complete Guide by Maximilian Schwarzmüller (in progress)
 * The Complete JavaScript Course 2021 by Jonas Schmedtmann (in progress)
 * Web Developer by Petrichenko (in progress)
